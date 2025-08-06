@@ -1,4 +1,4 @@
-# chat
+# Chat_app
 
 See the Website at : https://kaneriyanirmal.github.io/Ghochu_chat/
 
